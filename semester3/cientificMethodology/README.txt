@@ -1,1 +1,0 @@
-https://sites.google.com/garanhuns.ifpe.edu.br/materiaisdidaticos
