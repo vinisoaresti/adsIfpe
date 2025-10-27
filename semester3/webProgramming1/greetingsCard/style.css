@@ -5,6 +5,16 @@
   color: #343;
 }
 
+#disclaimer {
+  text-decoration: solid underline;
+  color: grey;
+  background-color: yellow;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 12px;
+}
+
 #profile-picture {
   height: 30px;
   width: 30px;
